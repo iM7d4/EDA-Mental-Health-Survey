@@ -35,3 +35,41 @@ The source of the data was a survey done in 2014 by [OSMI](https://osmihelp.org/
 | mental_vs_physical  | Do you feel that your employer takes mental health as seriously as physical health?  |
 | obs_consequence  | Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?  |
 | comments  | Any additional notes or comments?  |
+
+## Technologies used ⚙️
+
+* Python
+
+* Statistics
+
+##### Python Libraries : 
+* Pandas | Numpy |  Matplotlib |  Seaborn | Scipy
+
+
+### Visualizations
+ 
+1. **History Treatment Willingness**
+<p align="center">  <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/history_treatment_willingness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+2. **Resources and Awareness**
+ <p align="center">  <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/resources_and_awareness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+3. **Correlation Heatmap between Variable**
+  <p align="center">  <img src="" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ 
+4. **Resource Willingness**
+  <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/resources_willingness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ 
+5. **Regression Plot for Resource Willingness**
+ <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/resources_willingness_regplot.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ 
+6. **Work Interfere Willingness**
+ <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/work_interfere_willingness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ 
+7. **Workplace Resource History**
+ <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/workplace_resources_hist.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ 
+### Interpretations 
+
+1. Majority of the people are unwilling to talk about their mental in the work environment.
+2. Majority of the companies don't even have mental health resources available.
+3. Women are less likely to talk about their mental health issues. This might be resulting as tech might be considered as a male-dominent industry.
+4. Average willingness score goes up as more resources are avaiable in the company.
