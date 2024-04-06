@@ -50,21 +50,19 @@ The source of the data was a survey done in 2014 by [OSMI](https://osmihelp.org/
  
 1. **History Treatment Willingness**
 <p align="center">  <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/history_treatment_willingness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
-2. **Resources and Awareness**
+2. **Resouces and Awareness**
  <p align="center">  <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/resources_and_awareness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
-3. **Correlation Heatmap between Variable**
-  <p align="center">  <img src="" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-4. **Resource Willingness**
+3. **Resource Willingness**
   <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/resources_willingness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-5. **Regression Plot for Resource Willingness**
+4. **Regression Plot for Resource Willingness**
  <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/resources_willingness_regplot.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-6. **Work Interfere Willingness**
+5. **Work Interfere Willingness**
  <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/work_interfere_willingness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-7. **Workplace Resource History**
+6. **Workplace Resource History**
  <p align="center"> <img src="https://github.com/iM7d4/EDA-Mental-Health-Survey/blob/main/visualizations/workplace_resources_hist.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
 ### Interpretations 
