@@ -1,6 +1,6 @@
 <h1 align="center"> EDA on Mental Health Survey </h1>
 
-*a study of Mental Health in Tech by the Real Ricardo*
+*A study of Mental Health in Tech by the Real Ricardo*
 
 The data used in this notebook was downloaded from [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
 The source of the data was a survey done in 2014 by [OSMI](https://osmihelp.org/), a non-profit organization dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
@@ -67,7 +67,7 @@ The source of the data was a survey done in 2014 by [OSMI](https://osmihelp.org/
  
 ### Interpretations 
 
-1. Majority of the people are unwilling to talk about their mental in the work environment.
-2. Majority of the companies don't even have mental health resources available.
+1. Majority of the people are unwilling to talk about their mental health in the work environment.
+2. Majority of the companies don't even have mental health resources available in the work environment.
 3. Women are less likely to talk about their mental health issues. This might be resulting as tech might be considered as a male-dominent industry.
 4. Average willingness score goes up as more resources are avaiable in the company.
